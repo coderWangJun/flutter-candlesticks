@@ -1,4 +1,10 @@
 [![pub package](https://img.shields.io/pub/v/flutter_candlesticks.svg)](https://pub.dartlang.org/packages/flutter_candlesticks)
+# fork这个项目主要是为了解决flutter升级SDK导致不识别阿里巴巴矢量图标库 
+## 使用方法：在pubspec.yaml 文件引入即可 【参照链接 https://www.jianshu.com/p/c2ecfc304c5c】
+flutter_candlesticks: 
+    git:
+      url: https://github.com/coderWangJun/flutter-candlesticks.git
+      ref: 6fe217413771ccaf73a437339d73996ed6558f02
 
 # flutter_candlesticks
 
